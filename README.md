@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌏 Based on Sleman, Yogyakarta
 🏫 I'm a Software Engineering Tech. Student at Universitas Gadjah Mada <br>
 🌱 I’m currently learning Website Development & UI/UX Design
 <!--
