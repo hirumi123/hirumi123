@@ -1,7 +1,8 @@
 ### Hi there 👋
-🌏 Based on Sleman, Yogyakarta <br>
+
 🏫 I'm a Software Engineering Tech. Student at Universitas Gadjah Mada <br>
-🌱 I’m currently learning Website Development & UI/UX Design
+🌱 I’m currently learning Website Development & UI/UX Design <br>
+🌏 Based on Sleman, Yogyakarta 
 <!--
 **hirumi123/hirumi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
